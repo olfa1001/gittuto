@@ -4,6 +4,14 @@ int somme(int a , int b)
 {
     return (a+b);
 }
+int division(int a, int b)
+{
+    return a/b;
+}
+void write_name(int name)
+{
+  return name;
+}
 int main()
 {
     printf("Hello club \n");
